@@ -3,28 +3,28 @@ Microsoft Azure: explorando os benefícios da Azure
 
 ## Escalabilidade
 A escalabilidade na Azure permite que os recursos de computação sejam ajustados para cima ou para baixo facilmente, conforme a demanda. Isso significa que você pode aumentar a capacidade de processamento durante picos de uso e reduzi-la quando a demanda diminuir, otimizando custos e desempenho.
-Referência: Escalabilidade na Azure
+Referência: [Escalabilidade na Azure](https://docs.microsoft.com/pt-br/azure/architecture/guide/scalability/)
 
 ## Elasticidade
 A elasticidade é a capacidade de um sistema se adaptar automaticamente e alocar recursos de forma dinâmica para atender a variações na demanda, sem intervenção manual. Isso garante que as aplicações sempre tenham os recursos necessários para operar de forma eficiente.
-Referência: Elasticidade na Azure
+Referência: [Elasticidade na Azure](https://azure.microsoft.com/pt-br/overview/what-is-elastic-computing/)
 
 ## Confiabilidade
 A confiabilidade na Azure é garantida por meio de uma infraestrutura robusta, com redundância de dados e recuperação de desastres, assegurando que os serviços e dados estejam sempre disponíveis quando necessários.
-Referência: Confiabilidade na Azure
+Referência: [Confiabilidade na Azure](https://azure.microsoft.com/pt-br/support/legal/sla/)
 
 ## Previsibilidade
 A previsibilidade na Azure se refere à capacidade de prever e controlar custos, desempenho e comportamento dos recursos na nuvem. Isso é possível graças a ferramentas de gerenciamento de custos e análises detalhadas.
-Referência: Previsibilidade na Azure
+Referência: [Previsibilidade na Azure](https://azure.microsoft.com/pt-br/services/cost-management/)
 
 ## Segurança
 A Azure oferece segurança de ponta a ponta, protegendo dados, aplicações e infraestrutura contra ameaças digitais. Isso é alcançado através de uma combinação de controles físicos, de infraestrutura e operacionais.
-Referência: Segurança na Azure
+Referência: [Segurança na Azure](https://azure.microsoft.com/pt-br/overview/security/)
 
 ## Governança
 A governança na Azure envolve o uso de políticas e práticas que garantem o uso eficaz e eficiente dos recursos na nuvem, alinhando-os com os objetivos de negócios e requisitos regulatórios.
-Referência: Governança na Azure
+Referência: [Governança na Azure](https://docs.microsoft.com/pt-br/azure/governance/)
 
 ##Gerenciabilidade
 A gerenciabilidade na Azure refere-se à facilidade com que os recursos da nuvem podem ser administrados e monitorados, permitindo uma gestão simplificada de aplicações, dados e infraestrutura.
-Referência: Gerenciabilidade na Azure
+Referência: [Gerenciabilidade na Azure](https://azure.microsoft.com/pt-br/features/management-tools/)

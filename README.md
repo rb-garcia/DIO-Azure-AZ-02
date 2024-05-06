@@ -24,5 +24,5 @@ Referência: [Segurança na Azure](https://azure.microsoft.com/pt-br/overview/se
 A governança na Azure envolve o uso de políticas e práticas que garantem o uso eficaz e eficiente dos recursos na nuvem, alinhando-os com os objetivos de negócios e requisitos regulatórios.
 Referência: [Governança na Azure](https://docs.microsoft.com/pt-br/azure/governance/)
 
-##Gerenciabilidade
+## Gerenciabilidade
 A gerenciabilidade na Azure refere-se à facilidade com que os recursos da nuvem podem ser administrados e monitorados, permitindo uma gestão simplificada de aplicações, dados e infraestrutura.

@@ -9,7 +9,7 @@ A elasticidade é a capacidade de um sistema se adaptar automaticamente e alocar
 Referência: [Elasticidade na Azure](https://azure.microsoft.com/pt-br/overview/what-is-elastic-computing/)
 
 ## Confiabilidade
-A confiabilidade na Azure é garantida por meio de uma infraestrutura robusta, com redundância de dados e recuperação de desastres, assegurando que os serviços e dados estejam sempre disponíveis quando necessários.
+A confiabilidade na Azure é garantida por meio de uma infraestrutura robusta, com redundância de dados e recuperação de desastres, assegurando que os serviços e dados estejam sempre disponíveis quando necessários.</b>
 Referência: [Confiabilidade na Azure](https://azure.microsoft.com/pt-br/support/legal/sla/)
 
 ## Previsibilidade

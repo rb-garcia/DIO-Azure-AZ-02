@@ -3,7 +3,6 @@ Microsoft Azure: explorando os benefícios da Azure
 
 ## Escalabilidade
 A escalabilidade na Azure permite que os recursos de computação sejam ajustados para cima ou para baixo facilmente, conforme a demanda. Isso significa que você pode aumentar a capacidade de processamento durante picos de uso e reduzi-la quando a demanda diminuir, otimizando custos e desempenho.
-Referência: [Escalabilidade na Azure](https://docs.microsoft.com/pt-br/azure/architecture/guide/scalability/)
 
 ## Elasticidade
 A elasticidade é a capacidade de um sistema se adaptar automaticamente e alocar recursos de forma dinâmica para atender a variações na demanda, sem intervenção manual. Isso garante que as aplicações sempre tenham os recursos necessários para operar de forma eficiente.
@@ -27,4 +26,3 @@ Referência: [Governança na Azure](https://docs.microsoft.com/pt-br/azure/gover
 
 ##Gerenciabilidade
 A gerenciabilidade na Azure refere-se à facilidade com que os recursos da nuvem podem ser administrados e monitorados, permitindo uma gestão simplificada de aplicações, dados e infraestrutura.
-Referência: [Gerenciabilidade na Azure](https://azure.microsoft.com/pt-br/features/management-tools/)

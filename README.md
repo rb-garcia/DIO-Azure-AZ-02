@@ -5,7 +5,7 @@ Microsoft Azure: explorando os benefícios da Azure
 A escalabilidade na Azure permite que os recursos de computação sejam ajustados para cima ou para baixo facilmente, conforme a demanda. Isso significa que você pode aumentar a capacidade de processamento durante picos de uso e reduzi-la quando a demanda diminuir, otimizando custos e desempenho.
 
 ## Elasticidade
-A elasticidade é a capacidade de um sistema se adaptar automaticamente e alocar recursos de forma dinâmica para atender a variações na demanda, sem intervenção manual. Isso garante que as aplicações sempre tenham os recursos necessários para operar de forma eficiente.
+A elasticidade é a capacidade de um sistema se adaptar automaticamente e alocar recursos de forma dinâmica para atender a variações na demanda, sem intervenção manual. Isso garante que as aplicações sempre tenham os recursos necessários para operar de forma eficiente.</b>
 Referência: [Elasticidade na Azure](https://azure.microsoft.com/pt-br/overview/what-is-elastic-computing/)
 
 ## Confiabilidade
